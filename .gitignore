@@ -1,0 +1,15 @@
+node_modules
+.history
+.idea
+scratchpad.js
+testCoverage
+examples/*/*.db
+examples/*/dist
+examples/**/package-lock.json
+*.iml
+*.DS_Store
+profiling
+npm-debug.log*
+.vscode
+/**/yarn.lock
+/**/.vuepress/dist
